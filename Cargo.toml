@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-arch-file-indexer"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS arch-file-indexer component"
+
+[lib]
+name = "arch_file_indexer"
+path = "src/lib.rs"
