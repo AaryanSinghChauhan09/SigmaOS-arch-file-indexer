@@ -6,6 +6,7 @@
 
 use std::collections::BTreeMap;
 use std::fmt;
+pub mod sigmaindexmanager;
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Indexer {
